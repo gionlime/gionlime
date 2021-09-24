@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gionlime
+- 👋 Hi, I’m jeek
 - 👀 I’m interested in Flutter
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on Flutter
